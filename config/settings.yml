@@ -1,0 +1,3 @@
+plugins:
+  notepad_enabled:
+    default: false
